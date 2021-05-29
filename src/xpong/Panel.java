@@ -132,6 +132,8 @@ Toolkit.getDefaultToolkit().sync(); // I forgot to add this line of code in the 
 			}
 		}
 	}
+	
+	
 	public class AL extends KeyAdapter{
 		public void keyPressed(KeyEvent e) {
 			raqueta1.keyPressed(e);
